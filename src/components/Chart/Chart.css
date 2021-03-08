@@ -1,0 +1,11 @@
+.contrainer {
+  display: flex;
+  justify-content: center;
+  width: 85%;
+}
+
+@media (max-width: 770px) {
+  .contrainer {
+    width: 100%;
+  }
+}
